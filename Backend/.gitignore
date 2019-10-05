@@ -1,0 +1,8 @@
+docker-compose.yml
+dockerfile
+.idea
+database
+*.pyc
+*.deb
+.env
+chromedriver

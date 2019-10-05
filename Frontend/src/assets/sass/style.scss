@@ -1,0 +1,20 @@
+$fa-font-path: "~font-awesome/fonts";
+@import "~font-awesome/scss/font-awesome";
+// @import '~materialize-css/sass/components/color-variables';
+// $primary-color: color("grey", "lighten-2") !default;
+// $secondary-color: color("green", "darken-2") !default;
+// $link-color: color("grey", "darken-2") !default;
+// @import "~materialize-css/sass/materialize";
+// @import "icons";
+html, body, #app{
+    overflow: auto !important;
+}
+.cui .content.content--alt, .cui .content__main--alt {
+    height: 85vh;
+}
+// @import "./cisco/animate";
+@import "./cisco/cui-styleguide.min";
+@import "./cisco/featherlight.min";
+@import "./cisco/atom-one-light";
+@import "./extra/select";
+@import "main";
