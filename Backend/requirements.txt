@@ -9,7 +9,7 @@ cryptography==2.7
 Django==2.2.1
 django-jet==1.0.8
 django-oauth-toolkit==1.2.0
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 idna==2.8
 oauthlib==3.0.1
 psycopg2==2.8.2
