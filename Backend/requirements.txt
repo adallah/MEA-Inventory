@@ -6,7 +6,7 @@ colorama==0.4.1
 configparser==3.7.4
 crayons==0.2.0
 cryptography==2.7
-Django==2.2.1
+Django==2.2.24
 django-jet==1.0.8
 django-oauth-toolkit==1.2.0
 djangorestframework==3.9.4
